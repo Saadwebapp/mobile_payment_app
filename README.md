@@ -1,16 +1,9 @@
-# mobile_payment_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="285" alt="image" src="https://github.com/Saadwebapp/mobile_payment_app/assets/113265080/f0ae0af2-7416-4fbb-a49c-0100170758a2">
+<img width="285" alt="image" src="https://github.com/Saadwebapp/mobile_payment_app/assets/113265080/5e0103dc-8858-4e79-8e99-1dba963888e2">
+<img width="285" alt="image" src="https://github.com/Saadwebapp/mobile_payment_app/assets/113265080/ff51af08-8009-48a7-bb04-8b7e05357390">
+<img width="285" alt="image" src="https://github.com/Saadwebapp/mobile_payment_app/assets/113265080/ae9a4dc6-8a0c-4fa5-814e-37201e64a8ee">
+<img width="285" alt="image" src="https://github.com/Saadwebapp/mobile_payment_app/assets/113265080/115b9c38-4687-4865-af0a-ef82a8b3791a">
+<img width="285" alt="image" src="https://github.com/Saadwebapp/mobile_payment_app/assets/113265080/24e02926-886d-4b26-b64b-bb84dac25c83">
+<img width="285" alt="image" src="https://github.com/Saadwebapp/mobile_payment_app/assets/113265080/743082f3-5bf1-4524-9b15-770f52d85063">
+<img width="285" alt="image" src="https://github.com/Saadwebapp/mobile_payment_app/assets/113265080/546002e4-18e8-41fb-ba14-f3ec479243c6">
+<img width="285" alt="image" src="https://github.com/Saadwebapp/mobile_payment_app/assets/113265080/47a72b28-e8cf-443a-8aa1-ee87c6e4c1ba">
